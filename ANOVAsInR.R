@@ -1,5 +1,4 @@
-#1. some significant concepts to understant
-
+#1. some significant concepts 
 #CASES: TREATMENT
 #   CBT           EMDR
 #   s1             s6
